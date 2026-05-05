@@ -3,5 +3,6 @@
 
 Python Apache Spark Databricks SQL Status
 
-##📌 About
+📌 About
+
 This repository captures my hands-on Data Engineering journey at Capgemini. It is organized week-wise and phase/day-wise, covering SQL, PySpark, data cleaning, ETL workflows, and Databricks analytics.
