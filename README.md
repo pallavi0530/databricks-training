@@ -1,2 +1,6 @@
 # 🚀 Capgemini Data Engineering Training
-This repository documents a Data Engineering training journey at Capgemini, moving from SQL basics to production-grade ETL pipelines. It features a structured, week-by-week curriculum focused on PySpark and Databricks through hands-on exercises. Key topics include data cleaning "non-negotiables," advanced window functions.
+**SQL · PySpark · Databricks · ETL · Data Quality
+Python Apache Spark Databricks SQL Status
+
+📌 About
+This repository captures my hands-on Data Engineering journey at Capgemini. It is organized week-wise and phase/day-wise, covering SQL, PySpark, data cleaning, ETL workflows, and Databricks analytics.**
