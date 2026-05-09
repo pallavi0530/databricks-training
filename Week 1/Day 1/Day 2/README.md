@@ -52,13 +52,12 @@ The practice focused on:
 ## Operators Practiced
 
 ### Comparison Operators
-
-* >
+* > 
 * <
+* =
 * >=
 * <=
 * <>
-* =
 
 ### Logical Operators
 
