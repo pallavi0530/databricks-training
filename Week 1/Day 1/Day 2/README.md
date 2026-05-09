@@ -55,7 +55,7 @@ The practice focused on:
 
 * >
 * <
-* > =
+* >=
 * <=
 * <>
 * =
