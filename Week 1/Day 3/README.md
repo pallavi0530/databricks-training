@@ -68,7 +68,7 @@ Week1/
     ├── README.md
     ├── joinscreation.sql
     ├── joinscode.txt
-    └── outputs/
+    └── outputs
 ```
 
 ---
