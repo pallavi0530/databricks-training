@@ -109,7 +109,7 @@ Week1/
     ├── README.md
     ├── datacreation.sql
     ├── sql-queries.txt  
-    └── outputs/
+    └── outputs
 ```
 
 ---
