@@ -126,17 +126,12 @@ The session focused on combining data from multiple tables, understanding table 
 
 Week2/
 
-└── Day1\\\_SQL\\\_Joins/
-
-\&#x20;   ├── README.md
-
-\&#x20;   ├── data.sql
-
-\&#x20;   ├── JoinQuestions.sql
-
-\&#x20;   ├── JoinQueries.sql
-
-\&#x20;   └── outputs/
+└── Day1_SQL_Joins/
+├── README.md
+├── data.sql
+├── JoinQuestions.sql
+├── JoinQueries.sql
+└── outputs/
 
 ```
 
