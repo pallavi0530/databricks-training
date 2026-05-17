@@ -124,17 +124,12 @@ The session focused on ranking data, partition-based calculations, sequential ro
 
 Week3/
 
-└── Day1\_Window\_Functions/
-
-&#x20;   ├── README.md
-
-&#x20;   ├── data.sql
-
-&#x20;   ├── WindowFunctionsQuestions.sql
-
-&#x20;   ├── WindowFunctionsQueries.sql
-
-&#x20;   └── outputs/
+└── Day1_Window_Functions/
+├── README.md
+├── data.sql
+├── WindowFunctionsQuestions.sql
+├── WindowFunctionsQueries.sql
+└── outputs/
 
 ```
 
