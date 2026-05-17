@@ -144,17 +144,12 @@ The session focused on extracting patterns from strings, working with regex symb
 
 Week2/
 
-└── Day4\\\_Regex\\\_Basic/
-
-\&#x20;   ├── README.md
-
-\&#x20;   ├── data.sql
-
-\&#x20;   ├── RegexBasicQuestions.sql
-
-\&#x20;   ├── RegexBasicQueries.sql
-
-\&#x20;   └── outputs/
+└── Day4_Regex_Basic/
+├── README.md
+├── data.sql
+├── RegexBasicQuestions.sql
+├── RegexBasicQueries.sql
+└── outputs/
 
 ```
 
