@@ -176,17 +176,12 @@ The session focused on working with date values, extracting date parts, performi
 
 Week1/
 
-└── Day6\\\\\\\_Date\\\\\\\_Manipulation/
-
-\\\&#x20;   ├── README.md
-
-\\\&#x20;   ├── data.sql
-
-\\\&#x20;   ├── DateManipulationQuestions.sql
-
-\\\&#x20;   ├── DateManipulationQueries.sql
-
-\\\&#x20;   └── outputs/
+└── Day6_Date_Manipulation/
+├── README.md
+├── data.sql
+├── DateManipulationQuestions.sql
+├── DateManipulationQueries.sql
+└── outputs/
 
 ```
 
