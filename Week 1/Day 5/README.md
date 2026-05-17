@@ -152,17 +152,12 @@ The session focused on manipulating textual data, working with dates, formatting
 
 Week1/
 
-└── Day5\\\\\\\_STR\\\\\\\_DATA\\\\\\\_NUM/
-
-\\\&#x20;   ├── README.md
-
-\\\&#x20;   ├── data.sql
-
-\\\&#x20;   ├── StrDataNumQuestions.sql
-
-\\\&#x20;   ├── StrDataNumQueries.sql
-
-\\\&#x20;   └── outputs/
+└── Day5_STRDATANUM/
+├── README.md
+├── data.sql
+├── StrDataNumQuestions.sql
+├── StrDataNumQueries.sql
+└── outputs/
 
 ```
 
