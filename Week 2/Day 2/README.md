@@ -124,17 +124,12 @@ The session focused on handling missing values, replacing NULL values, preventin
 
 Week2/
 
-└── Day2\\\_Null\\\_Functions/
-
-\&#x20;   ├── README.md
-
-\&#x20;   ├── data.sql
-
-\&#x20;   ├── NullFunctionsQuestions.sql
-
-\&#x20;   ├── NullFunctionsQueries.sql
-
-\&#x20;   └── outputs/
+└── Day2_Null_Functions/
+├── README.md
+├── data.sql
+├── NullFunctionsQuestions.sql
+├── NullFunctionsQueries.sql
+└── outputs/
 
 ```
 
