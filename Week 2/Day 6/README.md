@@ -162,17 +162,12 @@ The session focused on manipulating, formatting, extracting, and cleaning textua
 
 Week2/
 
-└── Day6\\\\\\\_String\\\\\\\_Functions/
-
-\\\&#x20;   ├── README.md
-
-\\\&#x20;   ├── data.sql
-
-\\\&#x20;   ├── StringFunctionsQuestions.sql
-
-\\\&#x20;   ├── StringFunctionsQueries.sql
-
-\\\&#x20;   └── outputs/
+└── Day6_String_Functions/
+├── README.md
+├── data.sql
+├── StringFunctionsQuestions.sql
+├── StringFunctionsQueries.sql
+└── outputs/
 
 ```
 
