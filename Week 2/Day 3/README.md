@@ -150,17 +150,12 @@ The session focused on performing numeric calculations, mathematical operations,
 
 Week2/
 
-└── Day3\\\\\\\\\\\\\\\_Number\\\\\\\\\\\\\\\_Manipulation\\\\\\\\\\\\\\\_Functions/
-
-\\\\\\\&#x20;   ├── README.md
-
-\\\\\\\&#x20;   ├── data.sql
-
-\\\\\\\&#x20;   ├── NumberManipulationQuestions.sql
-
-\\\\\\\&#x20;   ├── NumberManipulationQueries.sql
-
-\\\\\\\&#x20;   └── outputs/
+└── Day3_Number_Manipulation_Functions/
+├── README.md
+├── data.sql
+├── NumberManipulationQuestions.sql
+├── NumberManipulationQueries.sql
+└── outputs/
 
 ```
 
