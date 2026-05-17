@@ -142,17 +142,12 @@ The session focused on regex pattern matching, validation techniques, extracting
 
 Week2/
 
-└── Day5\\\\\\\_Regex\\\\\\\_Foundation/
-
-\\\&#x20;   ├── README.md
-
-\\\&#x20;   ├── data.sql
-
-\\\&#x20;   ├── RegexFoundationQuestions.sql
-
-\\\&#x20;   ├── RegexFoundationQueries.sql
-
-\\\&#x20;   └── outputs/
+└── Day5_Regex_Foundation/
+├── README.md
+├── data.sql
+├── RegexFoundationQuestions.sql
+├── RegexFoundationQueries.sql
+└── outputs/
 
 ```
 
